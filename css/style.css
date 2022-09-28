@@ -1,5 +1,7 @@
-@media screen (min-width: 768px ) {
+@media (min-width: 768px ) {
   #navbar {
     text-align: left;
+    position:fixed;
+    left: 100px;
   }
 }
